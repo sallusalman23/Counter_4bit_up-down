@@ -143,7 +143,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ## Fig 7: Compiled database in worklib
 
-![WhatsApp Image 2024-11-24 at 11 21 47_2b6e40d1](https://github.com/user-attachments/assets/6284690f-e52f-495e-85d3-9eb54cc56e93)
+![Screenshot (72)](https://github.com/user-attachments/assets/b4ed8551-1009-440d-b8a0-c944a1c2b181)
 
 
 
@@ -175,8 +175,8 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
 ## Fig 8: Elaboration Launch Option
+![Screenshot (72)](https://github.com/user-attachments/assets/5774b411-da0b-4a0d-8819-4af8a76ced69)
 
-![WhatsApp Image 2024-11-24 at 11 21 46_a25ee5c3](https://github.com/user-attachments/assets/03565d2b-e7f8-49f4-8eb2-ea2eced15b99)
 
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
